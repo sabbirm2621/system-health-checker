@@ -1,0 +1,13 @@
+
+    System Health Report - 2024-12-02 16:04:57
+
+    System: Darwin 21.1.0 (Darwin Kernel Version 21.1.0: Wed Oct 13 17:33:24 PDT 2021; root:xnu-8019.41.5~1/RELEASE_ARM64_T8101)
+    Node Name: Sabbirs-Air
+    Processor: arm
+    Machine: arm64
+
+    CPU Usage: 49.8%
+    Memory Usage: 68.3% (3.56 GB used of 8.00 GB)
+    Disk Usage: 17.4% (23.72 GB used of 228.27 GB)
+    Network: Connected
+    
