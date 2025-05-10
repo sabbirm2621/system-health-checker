@@ -37,11 +37,6 @@ The script outputs a detailed report in the console and saves it to a text file 
 
 ---
 
-## Why I Built This
-This project is part of my journey into IT, as I start learning Python and exploring practical ways to use it in Help Desk and troubleshooting scenarios. It showcases my ability to identify system health metrics and solve real-world problems.
-
----
-
 ## Future Plans
 - Explore enhancements like battery status and alerting critical metrics.
 - Add better formatting for report outputs.
