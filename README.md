@@ -1,7 +1,7 @@
 # System Health Checker
 
 ## Description
-The **System Health Checker** is a Python-based script designed to monitor and report on key system metrics. It's a simple and practical tool for understanding your computer's performance, especially for those starting in IT or Help Desk roles.
+The **System Health Checker** is a Python-based script designed to monitor and report on key system metrics. It's a simple and practical tool for understanding your computer's performance.
 
 ### Features:
 - **CPU Usage** monitoring.
